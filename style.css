@@ -67,17 +67,23 @@ body{
     padding-top: 5px;
 }
 
+.hdr-td-text{
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
 .section {
     margin-top: 20px;
     border-top: #989898f4 solid 2px;
 }
 
 .regular-h {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .regular-text {
     margin-top: 0px;
+    margin-bottom: 3px;
 }
 
 .job-label {
@@ -85,7 +91,7 @@ body{
 }
 
 .exp-row {
-    border-top: 2px solid #bfbfbff4;
+    border-top: 1px solid #bfbfbff4;
     padding-top: 5px;
 }
 
@@ -103,3 +109,11 @@ body{
     float: left;
 }
 
+.job-key-ul {
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.company-description {
+    color: #6e6e6ef4;
+}
