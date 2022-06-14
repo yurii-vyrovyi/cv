@@ -83,16 +83,21 @@ body{
 
 .regular-text {
     margin-top: 0px;
-    margin-bottom: 3px;
+    margin-bottom: 10px;
 }
 
 .job-label {
     margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.job-title {
+    margin-bottom: 10px;
 }
 
 .exp-row {
-    border-top: 1px solid #bfbfbff4;
-    padding-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .exp-row::after {
@@ -115,5 +120,6 @@ body{
 }
 
 .company-description {
+    font-style: italic;
     color: #6e6e6ef4;
 }
